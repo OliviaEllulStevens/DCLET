@@ -332,7 +332,7 @@ const correctAnswers = {
                         name: "debrief",
                         type: "html",
                         html: `
-                        <p>Thank you for taking part in this study. Some individuals with (diagnosed or trait) ADHD often make small mistakes on forms, such as forgetting to fill in questions etc. The aim was to try and induce this specific symptom of ADHD, referred to as: 'often makes careless mistakes' by using of a lengthy multiple choice quiz. Please note that if you did miss questions in this experiment, it is not necessarily indicative of ADHD and sufficient for a diagnosis.</p>
+                        <p style="text-align:left; margin: 0 auto; max-width: 1000px;">Thank you for taking part in this study. Some individuals with (diagnosed or trait) ADHD often make small mistakes on forms, such as forgetting to fill in questions etc. The aim was to try and induce this specific symptom of ADHD, referred to as: 'often makes careless mistakes' by using of a lengthy multiple choice quiz. Please note that if you did miss questions in this experiment, it is not necessarily indicative of ADHD and sufficient for a diagnosis.</p>
                         <br>
                         <p>Please click the button below to save your data, this should only take a few seconds.</p>
                         `,
